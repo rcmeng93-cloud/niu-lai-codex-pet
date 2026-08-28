@@ -7,8 +7,8 @@
 ## Quick Start
 
 ```bash
-git clone <your-repository-url> niu-lai-pet
-cd niu-lai-pet
+git clone https://github.com/rcmeng93-cloud/niu-lai-codex-pet.git niu-lai-codex-pet
+cd niu-lai-codex-pet
 python3 scripts/validate.py
 python3 scripts/install.py
 ```
