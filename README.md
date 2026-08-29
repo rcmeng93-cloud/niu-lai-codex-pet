@@ -4,6 +4,20 @@
 
 这是一个可以直接克隆和安装的 Git 项目。仓库包含最终透明图集、v2 清单、预览图和无第三方依赖的安装/校验脚本。
 
+## Preview
+
+<p align="center">
+  <img src="assets/preview.png" alt="Niu Lai Codex pet animation preview" width="520">
+</p>
+
+<p align="center"><em>9 个标准动画状态与 16 个视线方向的透明图集预览</em></p>
+
+<p align="center">
+  <img src="assets/look-directions.png" alt="Niu Lai Codex pet look directions" width="760">
+</p>
+
+<p align="center"><em>完整视线方向与 zoom 状态预览</em></p>
+
 ## Quick Start
 
 ```bash
